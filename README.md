@@ -5,7 +5,7 @@
   
 # 특징
   1. 96*96*3의 이미지를 입력으로 사용한다.
-  ![image](https://user-images.githubusercontent.com/33644885/103069846-998e0600-4603-11eb-9448-8cf0851129ed.png)
+  <p align="center"><img src="https://user-images.githubusercontent.com/33644885/103069846-998e0600-4603-11eb-9448-8cf0851129ed.png"></img></p>
   2. 위와 같은 자체 개발 구조를 사용한다.
   3. AlexNet에서 사용한 overlapped pooling, dropout을 사용하여 overfitting을 감소시켰다.
   4. Xavier initializer 를 사용하였다.
